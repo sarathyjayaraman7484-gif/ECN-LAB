@@ -1,5 +1,8 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
+# Name:PARTHASARATHY J 
+# REGISTER NUMBER:25019024
+
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
@@ -24,6 +27,21 @@
 
 **CIRCUIT DIAGRAM:**
 
+
+<img width="433" height="591" alt="Screenshot 2025-12-26 215055" src="https://github.com/user-attachments/assets/102ebd31-c483-4c80-921e-fbd3fa7136a8" />
+
+
+**TABULAR COLUMN**
+
+<img width="451" height="231" alt="Screenshot 2025-12-26 215114" src="https://github.com/user-attachments/assets/22f5274c-f7fa-4ec0-ba27-13523dc45806" />
+
+
+
+
+
+**CALCULATION**
+
+<img width="426" height="812" alt="Screenshot 2025-12-26 215940" src="https://github.com/user-attachments/assets/642e9300-d117-4afa-b8ca-5ca5e5798e6b" />
 
 
 
